@@ -1,0 +1,2 @@
+# AkademiaJavaDeveloperPRO
+NewsApi
